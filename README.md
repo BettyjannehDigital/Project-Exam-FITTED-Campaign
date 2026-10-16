@@ -43,7 +43,11 @@ Choices behind the plan:
 
 - **Questions sticker instead of a Poll:** the video was already filmed, so a poll result that didn't match it would have left no time to reshoot. Open answers removed that risk and still gave a real engagement signal.
 - **Posting times chosen on purpose:** lunch and evening slots on weekdays, an earlier Friday slot because the audience is less active later on Fridays, and a Sunday evening recap for a "don't miss out" effect, with a black and yellow palette to stand apart from the softer mint and blue pieces.
-- **Client posting guide:** the client posted from my written guide, so I rewrote the recap Story steps after she asked what steps two and three meant, then added a screen recording, a narrated recording and a reference screenshot.
+- **Client posting guide:** the client posted from my written guide, so I rewrote the recap Story steps after she asked what steps two and three meant, then added a screen recording, a narrated recording and a reference screenshot. The final version is in [guides/posting-guide.md](guides/posting-guide.md).
+
+Reel cover used for the Friday leg-day video:
+
+<img src="images/reel-cover.png" width="180" alt="Reel cover: Leg-Day with FITTED">
 
 ---
 

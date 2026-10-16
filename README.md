@@ -47,6 +47,20 @@ Choices behind the plan:
 
 ---
 
+## Brand Story Carousel
+
+A separate 5-slide carousel post for FITTED, telling the brand story from the problem ("your body was never the problem, the fit was") through the product to a call to action.
+
+<p>
+<img src="images/carousel/carousel-1.png" width="180" alt="Carousel slide 1: Your body was never the problem. The fit was.">
+<img src="images/carousel/carousel-2.png" width="180" alt="Carousel slide 2: Too many women were an afterthought in activewear design">
+<img src="images/carousel/carousel-3.png" width="180" alt="Carousel slide 3: Function meets fit, every time">
+<img src="images/carousel/carousel-4.png" width="180" alt="Carousel slide 4: Designed for curves">
+<img src="images/carousel/carousel-5.png" width="180" alt="Carousel slide 5: Ready to feel FITTED? Link in bio">
+</p>
+
+---
+
 ## Results
 
 | Metric | Baseline (3 Jul – 6 Sept) | Campaign (7–13 Sept) |

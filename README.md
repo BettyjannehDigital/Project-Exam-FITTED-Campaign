@@ -98,9 +98,9 @@ A separate 5-slide carousel post for FITTED, telling the brand story from the pr
 
 Videos are too large for GitHub, so they live in Google Drive:
 
-🎬 [Watch the campaign videos](https://drive.google.com/drive/folders/1e7rsg2AH8I-0joCq3TUXDQz5vOefdTK-)
+🎬 [Watch the Project Exam campaign videos](https://drive.google.com/drive/folders/11sfj6N6IuN2Pps9gD8JozO2fEG0ZsUay)
 
-More FITTED work I made, in Google Drive:
+All FITTED work is also in one [main folder](https://drive.google.com/drive/folders/1WoVPmulEh6ElASOlKqRILV_9MdOB86WU). Direct links:
 
 - 🎞️ [Past posted campaigns](https://drive.google.com/drive/folders/1G36d4VnpT0hLfwdYGdBDBkOoq463RGJq): videos recorded by me or the client, edited by me and posted
 - 🖼️ [Brand story carousel files](https://drive.google.com/drive/folders/1nX5z-FbVNocflGalrooJeU63e2pmUYGt): the carousel was designed for FITTED but has not been posted

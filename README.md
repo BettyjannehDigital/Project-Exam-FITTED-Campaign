@@ -32,6 +32,8 @@ This was a real campaign on the client's live account, measured with Instagram I
 | 4 | Leg-day workout video | Reel | Fri 11 Sept, 3 PM | Core campaign content |
 | 5 | "Missed Friday's Leg-Day?" | Story | Sun 13 Sept, 7 PM | Close the loop, drive traffic back to the Reel |
 
+The leg-day Reel is on the client's account: [watch it on Instagram](https://www.instagram.com/reel/DdJaGcaoPb0/) (2,010 public views on 25 October 2026, which is more than the 7 to 13 September campaign window measured below).
+
 <p>
 <img src="images/01-questions-story.png" width="180" alt="Story 1: Questions sticker graphic">
 <img src="images/02-announcement-story.png" width="180" alt="Story 2: You Asked, We Answered announcement">

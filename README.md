@@ -117,5 +117,7 @@ All FITTED work is also in one [main folder](https://drive.google.com/drive/fold
 
 ## Related Projects
 
-- [Freelance – FITTED Activewear](https://github.com/BettyjannehDigital/Freelance-FITTED-Activewear) (transitional video, 2025)
+- [Freelance – FITTED Activewear](https://github.com/BettyjannehDigital/Freelance-FITTED-Activewear) (transitional video, posted 25 February 2026; [6,249 views on Instagram](https://www.instagram.com/reel/DVMGCSQCKLz/), checked 25 October 2026)
 - [Social Media Marketing – OneOhOne Jewelry](https://github.com/BettyjannehDigital/SoMe--Marketing-OneOhOne)
+
+*Last updated: 25 October 2026.*
